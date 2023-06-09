@@ -1,5 +1,7 @@
 # GEMM: A Graph Embedded Model for Memorability Prediction
 
+_**Authors:**_ Tahsin Tariq Banna, Swakshar Deb, Sejuti Rahman, Shafin Rahman
+
 [Code(coming soon)]
 
 ![gemm_architecture](https://user-images.githubusercontent.com/62146852/232325513-e9de077e-49d3-4ce0-b090-6360054c55ca.png)
